@@ -1,6 +1,7 @@
-# nuxt-course
+# nuxt
 
-> nuxtjs course for udemy
+> Crate Single page App by using Nuxtjs in Fronten and Firbase in 
+backend
 
 ## Build Setup
 
